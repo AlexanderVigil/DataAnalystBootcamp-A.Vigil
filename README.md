@@ -1,2 +1,2 @@
 # kickstarter-analysis
-Shared Coursework
+An Analysis of Kickstarter Campaigns
