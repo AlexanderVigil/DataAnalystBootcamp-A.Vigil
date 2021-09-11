@@ -1,2 +1,2 @@
-# DataAnalystBootcamp-A.Vigil
+# kickstarter-analysis
 Shared Coursework
